@@ -1,0 +1,64 @@
+
+html, body {
+	background-color: #fcf9f9;
+	margin:10px;
+	padding: 0px;
+	color: #fffcfc;
+	font-family: 'Raleway', sans-serif;
+}
+
+	h1, p {
+		font-size: em4;
+		color: #ff003d;
+	}
+
+
+.header {
+	display: inline-block;
+	margin-left: 13px;
+	margin-top: 40px;
+	padding: 3px;
+	border: none;
+}
+
+.nav {
+	list-style-type: none;
+	margin:0;
+	padding: 20px 0;
+}
+
+.nav li a {
+	color: #fffcfc;
+	display: inline-block;
+	font-family: "Raleway", sans-serif;
+	font-weight: 600;
+	font-size: 13px;
+	margin-right: 25px;
+	text-transform: none;
+	margin: 26px;
+	padding: 13px;
+	border: none;
+	border-radius: 2px;
+	background-color: #ff003d;
+}
+
+
+
+
+
+.jumbotron {
+	background:url("http://www.viralsounds.ca/uploads/9/3/8/6/9386557/6910471_orig.jpg") no-repeat center center fixed;
+	background-size: cover;
+	background-color: transparent;
+	height: 560px;
+	text-align: center;
+}
+
+.jumbotron h1{
+	padding-top: 40px;
+}
+
+.footer {
+	display: inline-block;
+
+}
